@@ -8,12 +8,10 @@
 
 body {
     background: beige;
-    padding-top: 79px;
+    
 }
 
-#mainNavbar .navbar-brand {
-   
-}
+
 
 #mainNavbar {
     font-size: 1.5rem;
@@ -42,7 +40,17 @@ body {
 }
 
 .container {
+    
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+nav{
+    position:fixed;
+    }
