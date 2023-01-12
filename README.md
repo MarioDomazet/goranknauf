@@ -1,2 +1,2 @@
 # goranknauf
-Simple website using Bootstrap.
+Simple website using Bootstrap, not finished yet.
