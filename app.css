@@ -1,0 +1,48 @@
+.logo-image{
+    width: 100px;
+    height: 75px;
+    border-radius: 75%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+body {
+    background: beige;
+    padding-top: 79px;
+}
+
+#mainNavbar .navbar-brand {
+   
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+  
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: aqua;
+}
+
+.orange {
+    color: #FAC55C;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.blue {
+    color: aqua;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
