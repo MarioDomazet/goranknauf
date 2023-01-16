@@ -58,8 +58,21 @@ p {
 
 footer {
     color: white;
+    
     }
 
 #mail {
     margin-bottom: 0.2em;
 }   
+
+#kontakt:hover {
+color: aqua;
+}
+
+#adresa:hover {
+    color: aqua;
+    }
+
+#mail:hover {
+        color: aqua;
+        }
