@@ -7,7 +7,7 @@
 }
 
 body {
-    background: radial-gradient(beige, rgb(65, 62, 62));
+    background: linear-gradient(rgb(65, 62, 62),beige );
     background-attachment: fixed;
 }
 
