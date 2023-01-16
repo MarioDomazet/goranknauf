@@ -7,8 +7,8 @@
 }
 
 body {
-    background: beige;
- }
+    background: radial-gradient(beige, rgb(65, 62, 62));
+}
 
 
 
@@ -54,6 +54,7 @@ body {
    
 p {
     font-size: 2.5vh;
+    font-weight: 400;
 }
 
 footer {
